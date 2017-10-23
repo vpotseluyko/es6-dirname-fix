@@ -1,0 +1,12 @@
+{
+  "name": "es6-dirname-fix",
+  "version": "1.0.0",
+  "description": "Packet to provide a kind of desicion because of __dirname and __filename are deprecated within es6 modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["es6", "__dirname", "__filename", "modules"],
+  "author": "vpotseluyko",
+  "license": "ISC"
+}
